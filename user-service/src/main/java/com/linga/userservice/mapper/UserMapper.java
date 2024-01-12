@@ -5,5 +5,4 @@ import org.mapstruct.factory.Mappers;
 
 @Mapper
 public class UserMapper {
-    UserMapper INSTANCE = Mappers.getMapper(UserMapper.class);
 }
